@@ -1,43 +1,23 @@
-# Hi, I'm Yigit 👋
+# Yigit Yildiz
 
-I build practical AI workflows, coding-agent skills, and automation systems that help people keep complex projects moving.
+I build practical AI workflows, coding-agent skills, and small automation systems that make complex projects easier to continue, transfer, and finish.
 
-## What I Work On
+## Featured Project: Super Memory
 
-- 🧠 **Agent memory systems** - keeping long AI projects organized across tools and context limits
-- 🤖 **AI coding workflows** - Codex, Claude Code, ChatGPT, local agents, and handoff protocols
-- 🛠️ **Developer tools** - small utilities that remove repeated setup and lost-context problems
-- 🎨 **Creative AI systems** - prompt engineering, visual workflows, and production pipelines
+**Super Memory** is a file-based project memory system for Claude Code, Codex, ChatGPT, and long AI coding sessions.
 
-## Featured Project
+It helps an AI assistant continue from the latest project state after a context window fills, a tool limit is reached, a chat is deleted, or the project moves to another AI tool.
 
-### Supermemory Relay
+Repository: [super-memory](https://github.com/yigityildiz0/super-memory)
 
-A compact cross-agent memory protocol for Codex, Claude Code, ChatGPT, and other coding agents.
+## What I Care About
 
-It helps developers continue the same project across AI tools without losing:
+- clear project handoffs
+- practical AI coding workflows
+- compact memory formats
+- tools that are simple enough to use every day
 
-- current goal
-- changed files
-- decisions
-- failed attempts
-- test results
-- next steps
+## GitHub
 
-Useful when a context window fills, a tool limit is reached, or a project moves from one AI agent to another.
-
-➡️ Repository: `supermemory-relay`
-
-## Focus
-
-I care about AI systems that are:
-
-- simple enough to use every day
-- compact enough to fit real context limits
-- clear enough for another agent or human to continue
-- practical enough to solve actual workflow pain
-
-## Contact
-
-- GitHub: [@yigityildiz0](https://github.com/yigityildiz0)
+- [@yigityildiz0](https://github.com/yigityildiz0)
 
