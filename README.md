@@ -34,3 +34,11 @@ Skill projects provide separate **ChatGPT** and **Claude** buttons. ChatGPT file
 ## Türkçe
 
 Araştırma, fizyoterapi, günlük işler, yazılım ve tasarım için kullanılabilir AI iş akışları geliştiriyorum. Yukarıdaki tabloda ihtiyacına uygun projeyi seç; skill depolarındaki ChatGPT/Claude indirme düğmelerini kullan. Klinik ve finansal çıktılar karar desteğidir; uzman değerlendirmesinin veya kullanıcının kararının yerini almaz.
+
+<!-- RELATED-AI-DOWNLOADS -->
+## General AI workflow downloads / Genel AI skill paketleri
+
+[![ChatGPT general workflows](https://img.shields.io/badge/ChatGPT-General_AI_skills-10a37f?style=for-the-badge)](https://github.com/yigityildiz0/universal-ai-skill-library/raw/refs/heads/main/downloads/General-ChatGPT.zip) [![Claude general workflows](https://img.shields.io/badge/Claude-General_AI_skills-d97757?style=for-the-badge)](https://github.com/yigityildiz0/universal-ai-skill-library/raw/refs/heads/main/downloads/General-Claude.zip)
+
+These buttons download the related 12-skill Universal collection for research, writing, documents and everyday tasks. For specialized collections, use the project table above. / Alana özel koleksiyonlar için yukarıdaki proje tablosunu kullan.
+<!-- END-RELATED-AI-DOWNLOADS -->
