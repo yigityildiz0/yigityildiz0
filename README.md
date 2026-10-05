@@ -1,36 +1,36 @@
 # Yigit Yildiz
 
-I build reliable **AI-agent skills, research workflows, and practical automation** for Claude Code, OpenAI Codex, OpenCode, ChatGPT, and Windows.
+I build practical AI-agent workflows for research, clinical reasoning, everyday work, software and design. The goal is useful behavior: understandable instructions, preserved provenance, direct downloads and honest limits.
 
-My projects focus on one thing: turning complex, fragile workflows into tools that are easier to discover, verify, install, continue, and share.
+## Start with the problem you want to solve
 
-[Browse 588 AI agent skills](https://yigityildiz0.github.io/universal-ai-skill-library/) · [See all repositories](https://github.com/yigityildiz0?tab=repositories) · [Latest Windows tool](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)
+| Need | Project | What you get |
+|---|---|---|
+| Everyday and specialist AI | [universal-ai-skill-library](https://github.com/yigityildiz0/universal-ai-skill-library) | 35 maintained workflows; 609 searchable catalog entries; general-only and complete downloads. |
+| Literature and evidence | [evidence-research-skills](https://github.com/yigityildiz0/evidence-research-skills) | 11 workflows for literature, appraisal, synthesis, data and academic work. |
+| Clinical physiotherapy | [physiotherapy-clinical-skills](https://github.com/yigityildiz0/physiotherapy-clinical-skills) | 2 complementary workflows for evidence and clinical reasoning. |
+| Scientific methods | [scientific-agent-skills](https://github.com/yigityildiz0/scientific-agent-skills) | 17 workflows for experiments, analysis and reproducible science. |
+| Investment research | [yigit-investment-copilot](https://github.com/yigityildiz0/yigit-investment-copilot) | One research copilot for BIST, TEFAS, US equities and portfolio risk. |
+| Financial literacy and risk | [universal-ai-finance-skills](https://github.com/yigityildiz0/universal-ai-finance-skills) | 18 workflows for literacy, financial evidence, risk and investing. |
+| AI and software development | [ai-development-skills](https://github.com/yigityildiz0/ai-development-skills) | 7 workflows for code, agents, tools, docs and knowledge graphs. |
+| Design and content | [design-content-skills](https://github.com/yigityildiz0/design-content-skills) | 13 workflows for interfaces, design systems, writing and media. |
+| Transport and mobility | [map-skill](https://github.com/yigityildiz0/map-skill) | Route planning and the existing city-specific editions. |
+| Claim verification | [truth-first-counterargument-skill](https://github.com/yigityildiz0/truth-first-counterargument-skill) | Evidence-based disagreement; concede when the claim is supported. |
+| Project memory | [super-memory](https://github.com/yigityildiz0/super-memory) | File-based project state and handoff between long AI sessions. |
+| Windows utility | [betterdiscord-auto-repair-launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) | Event-driven BetterDiscord repair after Discord updates. |
+| Website source | [iamyigit-site](https://github.com/yigityildiz0/iamyigit-site) | Personal website project and interface experiments. |
 
-## Featured open-source projects
+## Download and installation
 
-| Project | What it solves |
-|---|---|
-| [Universal AI Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library) | 588 searchable, bilingual agent skills mapped across Claude Code, Codex, and OpenCode, with direct downloads and compatibility notes. |
-| [Super Memory](https://github.com/yigityildiz0/super-memory) | A file-based project memory layer for long sessions, context-window handoffs, and switching between coding agents. |
-| [Map Skill](https://github.com/yigityildiz0/map-skill) | Evidence-aware multimodal route planning with a universal edition plus Istanbul and 15 major-city editions. |
-| [BetterDiscord Auto Repair Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) | A short-lived Windows launcher that repairs BetterDiscord after Discord updates without scheduled tasks, polling, or VBS. |
-| [Universal AI Finance Skills](https://github.com/yigityildiz0/universal-ai-finance-skills) | Evidence-based investing, financial literacy, BIST/TEFAS, portfolio risk, warrants, and calibrated forecasting skills. |
-| [Scientific Agent Skills](https://github.com/yigityildiz0/scientific-agent-skills) | Reproducible scientific-research skills spanning bioinformatics, single-cell analysis, Nextflow, R, and data quality. |
+Skill projects provide separate **ChatGPT** and **Claude** buttons. ChatGPT files bundle skills into plugins; Claude collections contain individual skill ZIPs to unpack and upload separately. Local Codex and Claude Code installs use the documented source folders. API keys, external subscriptions and model capabilities are not bundled.
 
-Also: [Truth-First Counterargument](https://github.com/yigityildiz0/truth-first-counterargument-skill), an evidence-first workflow that verifies claims, concedes when warranted, and builds sourced rebuttals.
+## How I maintain the projects
 
-## How I build
+- Preserve established skill behavior, names, references and upstream license notices.
+- Build provider packages from maintained sources and verify ZIP integrity, paths and checksums.
+- Distinguish package validation from actual account installation, clinical decisions and financial results.
+- Group projects by the user's problem; keep existing repository URLs usable.
 
-- **Evidence first:** claims, integrations, and release artifacts are verified before I call them complete.
-- **Beginner-friendly delivery:** English/Türkçe documentation, direct downloads, clear install paths, and practical troubleshooting.
-- **Safe automation:** bounded retries, narrow permissions, backups, checksums, and explicit limits instead of silent overreach.
-- **Portable workflows:** tools designed to move between agents and survive long-running project handoffs.
+## Türkçe
 
-## Current focus
-
-- reusable AI-agent skill libraries and discovery
-- context engineering and project memory
-- research workflows with honest uncertainty
-- small Windows tools that remove repetitive manual fixes
-
-If a project is useful, opening an issue with a real use case or sharing it with the right community helps more than a generic star request.
+Araştırma, fizyoterapi, günlük işler, yazılım ve tasarım için kullanılabilir AI iş akışları geliştiriyorum. Yukarıdaki tabloda ihtiyacına uygun projeyi seç; skill depolarındaki ChatGPT/Claude indirme düğmelerini kullan. Klinik ve finansal çıktılar karar desteğidir; uzman değerlendirmesinin veya kullanıcının kararının yerini almaz.
