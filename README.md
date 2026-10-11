@@ -1,44 +1,69 @@
-# Yigit Yildiz
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="1280" alt="Yigit Yildiz — clear questions, repeatable workflows, reviewable results">
+</picture>
 
-I build practical AI-agent workflows for research, clinical reasoning, everyday work, software and design. The goal is useful behavior: understandable instructions, preserved provenance, direct downloads and honest limits.
+# Hi, I’m Yiğit.
 
-## Start with the problem you want to solve
+[English](README.md) · [Türkçe](README.tr.md)
 
-| Need | Project | What you get |
-|---|---|---|
-| Everyday and specialist AI | [universal-ai-skill-library](https://github.com/yigityildiz0/universal-ai-skill-library) | 35 maintained workflows; 609 searchable catalog entries; general-only and complete downloads. |
-| Literature and evidence | [evidence-research-skills](https://github.com/yigityildiz0/evidence-research-skills) | 11 workflows for literature, appraisal, synthesis, data and academic work. |
-| Clinical physiotherapy | [physiotherapy-clinical-skills](https://github.com/yigityildiz0/physiotherapy-clinical-skills) | 2 complementary workflows for evidence and clinical reasoning. |
-| Scientific methods | [scientific-agent-skills](https://github.com/yigityildiz0/scientific-agent-skills) | 17 workflows for experiments, analysis and reproducible science. |
-| Investment research | [yigit-investment-copilot](https://github.com/yigityildiz0/yigit-investment-copilot) | One research copilot for BIST, TEFAS, US equities and portfolio risk. |
-| Financial literacy and risk | [universal-ai-finance-skills](https://github.com/yigityildiz0/universal-ai-finance-skills) | 18 workflows for literacy, financial evidence, risk and investing. |
-| AI and software development | [ai-development-skills](https://github.com/yigityildiz0/ai-development-skills) | 7 workflows for code, agents, tools, docs and knowledge graphs. |
-| Design and content | [design-content-skills](https://github.com/yigityildiz0/design-content-skills) | 13 workflows for interfaces, design systems, writing and media. |
-| Transport and mobility | [map-skill](https://github.com/yigityildiz0/map-skill) | Route planning and the existing city-specific editions. |
-| Claim verification | [truth-first-counterargument-skill](https://github.com/yigityildiz0/truth-first-counterargument-skill) | Evidence-based disagreement; concede when the claim is supported. |
-| Project memory | [super-memory](https://github.com/yigityildiz0/super-memory) | File-based project state and handoff between long AI sessions. |
-| Windows utility | [betterdiscord-auto-repair-launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) | Event-driven BetterDiscord repair after Discord updates. |
-| Website source | [iamyigit-site](https://github.com/yigityildiz0/iamyigit-site) | Personal website project and interface experiments. |
+I build AI workflows, source-led research systems and practical software. The shared idea: **turn a question into a process someone can understand, inspect and reuse.**
 
-## Download and installation
+[Skill catalog ↗](https://yigityildiz0.github.io/universal-ai-skill-library/) · [Website ↗](https://iamyigit.com) · [Source library ↗](https://github.com/yigityildiz0/universal-ai-skill-library)
 
-Skill projects provide separate **ChatGPT** and **Claude** buttons. ChatGPT files bundle skills into plugins; Claude collections contain individual skill ZIPs to unpack and upload separately. Local Codex and Claude Code installs use the documented source folders. API keys, external subscriptions and model capabilities are not bundled.
+## Choose a starting point
 
-## How I maintain the projects
+| You want to… | Start here |
+|---|---|
+| Find an AI workflow | [Search 35 maintained skills](https://yigityildiz0.github.io/universal-ai-skill-library/) — purpose, mechanics, examples and source. |
+| Work with rehabilitation evidence | [Physiotherapy & clinical collection](https://github.com/yigityildiz0/physiotherapy-clinical-skills) — evidence, reasoning and clinician-reviewed drafts. |
+| Inspect a practical tool or application | [Windows launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) and [bilingual site starter](https://github.com/yigityildiz0/iamyigit-site). |
 
-- Preserve established skill behavior, names, references and upstream license notices.
-- Build provider packages from maintained sources and verify ZIP integrity, paths and checksums.
-- Distinguish package validation from actual account installation, clinical decisions and financial results.
-- Group projects by the user's problem; keep existing repository URLs usable.
+## Selected projects
 
-## Türkçe
+| | |
+|---|---|
+| [![Universal Skill Library — One source. Clear guides. Portable editions.](assets/projects/universal-ai-skill-library.svg)](https://github.com/yigityildiz0/universal-ai-skill-library) | [![Physiotherapy & Evidence — Clinician-reviewed rehabilitation workflows.](assets/projects/physiotherapy-clinical-skills.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills) |
+| [![Super Memory — Keep compact state across long sessions.](assets/projects/super-memory.svg)](https://github.com/yigityildiz0/super-memory) | [![BetterDiscord Launcher — Bounded repair, diagnostics and recovery.](assets/projects/betterdiscord-auto-repair-launcher.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) |
+| [![Investment Research — Evidence, scenarios and portfolio risk.](assets/projects/yigit-investment-copilot.svg)](https://github.com/yigityildiz0/yigit-investment-copilot) | [![Personal Site Starter — Bilingual routes, themes and tested boundaries.](assets/projects/iamyigit-site.svg)](https://github.com/yigityildiz0/iamyigit-site) |
 
-Araştırma, fizyoterapi, günlük işler, yazılım ve tasarım için kullanılabilir AI iş akışları geliştiriyorum. Yukarıdaki tabloda ihtiyacına uygun projeyi seç; skill depolarındaki ChatGPT/Claude indirme düğmelerini kullan. Klinik ve finansal çıktılar karar desteğidir; uzman değerlendirmesinin veya kullanıcının kararının yerini almaz.
+## How the library stays maintainable
 
-<!-- RELATED-AI-DOWNLOADS -->
-## General AI workflow downloads / Genel AI skill paketleri
+**One source; durable domain collections.** The canonical library combines 34 current personal-master roots with the existing Super Memory skill. Domain repositories are selected views of that source, so routine updates do not require another round of repository merging and splitting.
 
-[![ChatGPT general workflows](https://img.shields.io/badge/ChatGPT-General_AI_skills-10a37f?style=for-the-badge)](https://github.com/yigityildiz0/universal-ai-skill-library/raw/refs/heads/main/downloads/General-ChatGPT.zip) [![Claude general workflows](https://img.shields.io/badge/Claude-General_AI_skills-d97757?style=for-the-badge)](https://github.com/yigityildiz0/universal-ai-skill-library/raw/refs/heads/main/downloads/General-Claude.zip)
+Each skill has separate English and Turkish guides. Historical community resources remain available without being represented as maintained or runtime-tested. Packaging, local verification and actual cloud-account activation are separate stages.
 
-These buttons download the related 12-skill Universal collection for research, writing, documents and everyday tasks. For specialized collections, use the project table above. / Alana özel koleksiyonlar için yukarıdaki proje tablosunu kullan.
-<!-- END-RELATED-AI-DOWNLOADS -->
+[Architecture & maintenance](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/MAINTAINING.md) · [Downloads](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md)
+
+<details>
+<summary><strong>All projects and collections</strong></summary>
+
+| Repository | Scope |
+|---|---|
+| [Universal AI Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library) | Source-led workflows for development, design, research, clinical reasoning and everyday work. |
+| [AI Development Skills](https://github.com/yigityildiz0/ai-development-skills) | Software delivery, AI tooling, current documentation and codebase understanding. |
+| [Design & Content Skills](https://github.com/yigityildiz0/design-content-skills) | Interface design, visual systems, writing, presentations and image/video workflows. |
+| [Evidence & Research Skills](https://github.com/yigityildiz0/evidence-research-skills) | Source-led research, evidence appraisal, data analysis and research synthesis. |
+| [Physiotherapy & Clinical Skills](https://github.com/yigityildiz0/physiotherapy-clinical-skills) | Clinical reasoning, rehabilitation evidence, study support and crisis response workflows. |
+| [Investment Research Copilot](https://github.com/yigityildiz0/yigit-investment-copilot) | Investment research workflows for market evidence, scenarios, portfolio risk and decision plans. |
+| [Finance Skills — Maintained Collection](https://github.com/yigityildiz0/universal-ai-finance-skills) | The maintained finance collection: investment research, data analysis and purchase due diligence. |
+| [Scientific Skills — Maintained Collection](https://github.com/yigityildiz0/scientific-agent-skills) | Maintained scientific workflows for literature, study, analysis, AI research and document quality. |
+| [Smart Route Planning](https://github.com/yigityildiz0/map-skill) | Source-aware route planning with public transport, walking, scheduling and explicit live-data limits. |
+| [Truth-First — Maintained Research Workflows](https://github.com/yigityildiz0/truth-first-counterargument-skill) | Claim verification, evidence integrity and decision challenges within the maintained research hub. |
+| [Super Memory](https://github.com/yigityildiz0/super-memory) | Project-local memory and evidence-based handoffs for long AI sessions. |
+| [BetterDiscord Auto Repair Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) | Windows utility; not an AI skill. |
+| [iamyigit-site](https://github.com/yigityildiz0/iamyigit-site) | Bilingual Next.js application starter. |
+
+</details>
+
+## Working principles
+
+- **Source first:** connect a claim to the document, data or code that supports it.
+- **Clear boundaries:** distinguish performed checks from recommendations; do not hide uncertainty.
+- **Durable structure:** small reusable parts and one maintained source.
+- **Real environments:** use available host tools, not an automatic extra paid-service fallback.
+
+Clinical and investment outputs do not replace human/professional judgment. A skill file does not grant account access, API credit or a model.
+
+---
+[Profile source](https://github.com/yigityildiz0/yigityildiz0) · [Project issues and contributions](https://github.com/yigityildiz0/universal-ai-skill-library/issues)
