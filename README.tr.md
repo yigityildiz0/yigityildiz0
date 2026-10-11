@@ -1,39 +1,43 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="1280" alt="Yigit Yildiz — clear questions, repeatable workflows, reviewable results">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-tr-dark.svg">
+  <img src="assets/studio/hero-tr-light.svg" width="1280" alt="Yiğit Yıldız — AI, research and useful software">
 </picture>
-
-# Merhaba, ben Yiğit.
 
 [English](README.md) · [Türkçe](README.tr.md)
 
-AI iş akışları, kaynak temelli araştırma ve pratik yazılım geliştiriyorum. Ortak fikir: **bir soruyu, anlaşılır ve incelenebilir bir çalışma sürecine dönüştürmek.**
+### Fikirleri işe yarayan şeylere dönüştürmek.
 
-[Skill catalog ↗](https://yigityildiz0.github.io/universal-ai-skill-library/) · [Website ↗](https://iamyigit.com) · [Source library ↗](https://github.com/yigityildiz0/universal-ai-skill-library)
+Merak ettiğim şeyleri araştırıyor, öğrendiklerimi işe yarayan araçlara dönüştürüyorum. Burada AI iş akışları, kaynak temelli araştırma ve pratik yazılım var.
 
-## Nereden başlamak istersin?
+<p>
+<a href="https://yigityildiz0.github.io/universal-ai-skill-library/"><img src="assets/studio/button-catalog-tr.svg" width="140" height="48" alt="Skill kataloğu"></a>
+<a href="#projeler"><img src="assets/studio/button-projects-tr.svg" width="140" height="48" alt="Projeler"></a>
+<a href="https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md"><img src="assets/studio/button-downloads-tr.svg" width="140" height="48" alt="İndirmeler"></a>
+<a href="https://iamyigit.com"><img src="assets/studio/button-website-tr.svg" width="140" height="48" alt="Web sitem"></a>
+</p>
 
-| Amaç | Başlangıç noktası |
-|---|---|
-| Bir AI iş akışı seçmek | [35 skill içeren aramalı katalog](https://yigityildiz0.github.io/universal-ai-skill-library/) — görev, mekanik, örnek ve kaynak. |
-| Rehabilitasyon kanıtını değerlendirmek | [Fizyoterapi ve klinik koleksiyon](https://github.com/yigityildiz0/physiotherapy-clinical-skills) — kanıt, akıl yürütme ve klinisyen kontrolündeki taslaklar. |
-| Pratik bir araç veya uygulamayı incelemek | [Windows başlatıcı](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) ve [iki dilli site başlangıcı](https://github.com/yigityildiz0/iamyigit-site). |
+**Bir iş akışı mı arıyorsun?** Katalogda görevine göre ara; nasıl çalıştığını oku ve yalnız ihtiyacın olan skill’i seç.
 
-## Seçilmiş projeler
+## Projeler
+
+Her renk, farklı bir çalışma alanı. Kartlar doğrudan proje rehberine gider.
 
 | | |
 |---|---|
-| [![Universal Skill Library — Kanonik kütüphane; iki dilli rehber ve paketler.](assets/projects/universal-ai-skill-library.svg)](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)** | [![Physiotherapy & Evidence — Klinisyen kontrolü gerektiren rehabilitasyon akışları.](assets/projects/physiotherapy-clinical-skills.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)** |
-| [![Super Memory — Uzun oturumlar arasında kısa proje devir notları.](assets/projects/super-memory.svg)](https://github.com/yigityildiz0/super-memory/blob/main/README.tr.md)<br>**[Super Memory](https://github.com/yigityildiz0/super-memory/blob/main/README.tr.md)** | [![BetterDiscord Launcher — Sınırlandırılmış onarım, tanı ve geri dönüş.](assets/projects/betterdiscord-auto-repair-launcher.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)** |
-| [![Investment Research — Kanıt, senaryolar ve portföy riski.](assets/projects/yigit-investment-copilot.svg)](https://github.com/yigityildiz0/yigit-investment-copilot/blob/main/README.tr.md)<br>**[Investment Research](https://github.com/yigityildiz0/yigit-investment-copilot/blob/main/README.tr.md)** | [![Personal Site Starter — İki dilli rotalar, tema ve sınanmış hata sınırları.](assets/projects/iamyigit-site.svg)](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md)<br>**[Personal Site Starter](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md)** |
+| [![Universal Skill Library — 35 iş akışı. Tek başlangıç noktası.](assets/studio/universal-ai-skill-library-tr.svg)](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)** | [![Physiotherapy & Evidence — Kanıt ve klinisyen kontrolündeki taslaklar.](assets/studio/physiotherapy-clinical-skills-tr.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)** |
+| [![Super Memory — Projeye kaldığın yerden devam et.](assets/studio/super-memory-tr.svg)](https://github.com/yigityildiz0/super-memory/blob/main/README.tr.md)<br>**[Super Memory](https://github.com/yigityildiz0/super-memory/blob/main/README.tr.md)** | [![BetterDiscord Launcher — Tanıdan onarıma daha açık bir yol.](assets/studio/betterdiscord-auto-repair-launcher-tr.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)** |
+| [![Investment Research — Kanıt, senaryolar ve portföy riski.](assets/studio/yigit-investment-copilot-tr.svg)](https://github.com/yigityildiz0/yigit-investment-copilot/blob/main/README.tr.md)<br>**[Investment Research](https://github.com/yigityildiz0/yigit-investment-copilot/blob/main/README.tr.md)** | [![Personal Site Starter — Web için iki dilli bir başlangıç.](assets/studio/iamyigit-site-tr.svg)](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md)<br>**[Personal Site Starter](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md)** |
 
-## Kütüphanenin bakım modeli
+<details>
+<summary><strong>🧭 Bana bir başlangıç noktası öner</strong></summary>
 
-**Tek kaynak; kalıcı alan koleksiyonları.** Genel kütüphanede güncel kişisel masterın 34 kökü ile mevcut Super Memory skill’i birleşir. Alan depoları aynı kaynağın seçilmiş görünümleridir; yeni güncellemede yeniden repo birleştirip bölmek gerekmez.
+| İstediğin iş | Buradan başla |
+|---|---|
+| Kod, yazı, analiz veya araştırma | [Skill kataloğu](https://yigityildiz0.github.io/universal-ai-skill-library/) |
+| Rehabilitasyon kanıtı ve öğrenme | [Fizyoterapi koleksiyonu](https://github.com/yigityildiz0/physiotherapy-clinical-skills) |
+| Ajanlar arasında proje devri | [Super Memory](https://github.com/yigityildiz0/super-memory) |
 
-Her skill için ayrı İngilizce ve Türkçe rehber vardır. Önceki topluluk kataloğu korunur ama güncel/testli kapsamla karıştırılmaz. Paket üretimi, yerel doğrulama ve bulut hesabında gerçekten çalıştırma ayrı aşamalardır.
-
-[Architecture & maintenance](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/MAINTAINING.md) · [Downloads](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md)
+</details>
 
 <details>
 <summary><strong>Tüm proje ve koleksiyonlar</strong></summary>
@@ -56,14 +60,19 @@ Her skill için ayrı İngilizce ve Türkçe rehber vardır. Önceki topluluk ka
 
 </details>
 
-## Çalışma ilkeleri
+<details>
+<summary><strong>🛠️ Nasıl çalışıyorum ve kütüphane nasıl güncelleniyor?</strong></summary>
 
-- **Kaynak önce:** iddiayı onu taşıyan belge, veri veya kodla ilişkilendir.
-- **Açık sınırlar:** yapılan kontrolü önerilen kontrolden ayır; bilinmeyeni saklama.
-- **Kalıcı düzen:** küçük, yeniden kullanılabilir parçalar; tek bakım kaynağı.
-- **Gerçek ortam:** mevcut host araçlarını kullan; ek ücretli servisi otomatik alternatif yapma.
+**Kaynak önce, açık sınırlar, yeniden kullanılabilir parçalar.** Kütüphane; 34 güncel kişisel master kökü ve Super Memory ile 35 giriş noktası içerir. Her skill için ayrı İngilizce/Türkçe rehber var; alan koleksiyonları aynı kaynağın seçilmiş görünümleridir. Eski topluluk kaynakları güncel/testli kapsamdan ayrı tutulur.
 
-Klinik ve yatırım çıktıları insan/profesyonel değerlendirmesinin yerine geçmez. Skill dosyası bir hesaba yetki, API kredisi veya model kazandırmaz.
+Mevcut host araçlarını, açık kaynakları ve yerel işlemi kullanırım; ek ücretli servis otomatik alternatif değildir. Paket üretimi, test ve gerçek hesapta aktivasyon farklı aşamalardır.
+
+[Architecture & maintenance](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/MAINTAINING.md) · [Downloads](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md)
+
+</details>
 
 ---
-[Profile source](https://github.com/yigityildiz0/yigityildiz0) · [Project issues and contributions](https://github.com/yigityildiz0/universal-ai-skill-library/issues)
+
+Klinik ve yatırım çıktıları profesyonel değerlendirmenin yerine geçmez. Skill dosyası hesap yetkisi, API kredisi veya model sağlamaz.
+
+[Website](https://iamyigit.com) · [All repositories](https://github.com/yigityildiz0?tab=repositories) · [Profile source](https://github.com/yigityildiz0/yigityildiz0)

@@ -1,39 +1,43 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="1280" alt="Yigit Yildiz — clear questions, repeatable workflows, reviewable results">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-en-dark.svg">
+  <img src="assets/studio/hero-en-light.svg" width="1280" alt="Yiğit Yıldız — AI, research and useful software">
 </picture>
-
-# Hi, I’m Yiğit.
 
 [English](README.md) · [Türkçe](README.tr.md)
 
-I build AI workflows, source-led research systems and practical software. The shared idea: **turn a question into a process someone can understand, inspect and reuse.**
+### Turning ideas into things you can use.
 
-[Skill catalog ↗](https://yigityildiz0.github.io/universal-ai-skill-library/) · [Website ↗](https://iamyigit.com) · [Source library ↗](https://github.com/yigityildiz0/universal-ai-skill-library)
+I explore questions, connect ideas and turn what I learn into useful tools. This is where my AI workflows, source-led research and practical software live.
 
-## Choose a starting point
+<p>
+<a href="https://yigityildiz0.github.io/universal-ai-skill-library/"><img src="assets/studio/button-catalog-en.svg" width="140" height="48" alt="Skill catalog"></a>
+<a href="#projects"><img src="assets/studio/button-projects-en.svg" width="140" height="48" alt="Projects"></a>
+<a href="https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md"><img src="assets/studio/button-downloads-en.svg" width="140" height="48" alt="Downloads"></a>
+<a href="https://iamyigit.com"><img src="assets/studio/button-website-en.svg" width="140" height="48" alt="My website"></a>
+</p>
 
-| You want to… | Start here |
-|---|---|
-| Find an AI workflow | [Search 35 maintained skills](https://yigityildiz0.github.io/universal-ai-skill-library/) — purpose, mechanics, examples and source. |
-| Work with rehabilitation evidence | [Physiotherapy & clinical collection](https://github.com/yigityildiz0/physiotherapy-clinical-skills) — evidence, reasoning and drafts requiring clinician review. |
-| Inspect a practical tool or application | [Windows launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) and [bilingual site starter](https://github.com/yigityildiz0/iamyigit-site). |
+**Looking for a workflow?** Search by the job you want to do, see how it works, and pick only the skill you need.
 
-## Selected projects
+## Projects
+
+Different colors, different kinds of work. Each card opens the project and its guide.
 
 | | |
 |---|---|
-| [![Universal Skill Library — One source. Clear guides. Portable editions.](assets/projects/universal-ai-skill-library.svg)](https://github.com/yigityildiz0/universal-ai-skill-library)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library)** | [![Physiotherapy & Evidence — Rehabilitation drafts for clinician review.](assets/projects/physiotherapy-clinical-skills.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills)** |
-| [![Super Memory — Keep compact state across long sessions.](assets/projects/super-memory.svg)](https://github.com/yigityildiz0/super-memory)<br>**[Super Memory](https://github.com/yigityildiz0/super-memory)** | [![BetterDiscord Launcher — Bounded repair, diagnostics and recovery.](assets/projects/betterdiscord-auto-repair-launcher.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)** |
-| [![Investment Research — Evidence, scenarios and portfolio risk.](assets/projects/yigit-investment-copilot.svg)](https://github.com/yigityildiz0/yigit-investment-copilot)<br>**[Investment Research](https://github.com/yigityildiz0/yigit-investment-copilot)** | [![Personal Site Starter — Bilingual routes, themes and tested boundaries.](assets/projects/iamyigit-site.svg)](https://github.com/yigityildiz0/iamyigit-site)<br>**[Personal Site Starter](https://github.com/yigityildiz0/iamyigit-site)** |
+| [![Universal Skill Library — 35 workflows. One place to start.](assets/studio/universal-ai-skill-library-en.svg)](https://github.com/yigityildiz0/universal-ai-skill-library)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library)** | [![Physiotherapy & Evidence — Evidence and drafts for clinician review.](assets/studio/physiotherapy-clinical-skills-en.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills)** |
+| [![Super Memory — Pick up the project, not the pieces.](assets/studio/super-memory-en.svg)](https://github.com/yigityildiz0/super-memory)<br>**[Super Memory](https://github.com/yigityildiz0/super-memory)** | [![BetterDiscord Launcher — A clearer path from diagnosis to repair.](assets/studio/betterdiscord-auto-repair-launcher-en.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)** |
+| [![Investment Research — Evidence, scenarios and portfolio risk.](assets/studio/yigit-investment-copilot-en.svg)](https://github.com/yigityildiz0/yigit-investment-copilot)<br>**[Investment Research](https://github.com/yigityildiz0/yigit-investment-copilot)** | [![Personal Site Starter — A bilingual starting point for the web.](assets/studio/iamyigit-site-en.svg)](https://github.com/yigityildiz0/iamyigit-site)<br>**[Personal Site Starter](https://github.com/yigityildiz0/iamyigit-site)** |
 
-## How the library stays maintainable
+<details>
+<summary><strong>🧭 Help me choose a starting point</strong></summary>
 
-**One source; durable domain collections.** The canonical library combines 34 current personal-master roots with the existing Super Memory skill. Domain repositories are selected views of that source, so routine updates do not require another round of repository merging and splitting.
+| Your next task | Start here |
+|---|---|
+| Code, writing, analysis or research | [Skill catalog](https://yigityildiz0.github.io/universal-ai-skill-library/) |
+| Rehabilitation evidence and learning | [Physiotherapy collection](https://github.com/yigityildiz0/physiotherapy-clinical-skills) |
+| Hand a project to another agent | [Super Memory](https://github.com/yigityildiz0/super-memory) |
 
-Each skill has separate English and Turkish guides. Historical community resources remain available without being represented as maintained or runtime-tested. Packaging, local verification and actual cloud-account activation are separate stages.
-
-[Architecture & maintenance](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/MAINTAINING.md) · [Downloads](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md)
+</details>
 
 <details>
 <summary><strong>All projects and collections</strong></summary>
@@ -56,14 +60,19 @@ Each skill has separate English and Turkish guides. Historical community resourc
 
 </details>
 
-## Working principles
+<details>
+<summary><strong>🛠️ How I work and how the library stays current</strong></summary>
 
-- **Source first:** connect a claim to the document, data or code that supports it.
-- **Clear boundaries:** distinguish performed checks from recommendations; do not hide uncertainty.
-- **Durable structure:** small reusable parts and one maintained source.
-- **Real environments:** use available host tools, not an automatic extra paid-service fallback.
+**Source first, clear boundaries, reusable parts.** The library contains 35 entry points: 34 current personal-master roots plus Super Memory. Each has separate English/Turkish guides; domain collections are selected views of the same source. Historical community material is separate from the maintained/tested scope.
 
-Clinical and investment outputs do not replace human/professional judgment. A skill file does not grant account access, API credit or a model.
+I use existing host tools, open sources and local computation—not an automatic extra paid-service fallback. Packaging, testing and actual account activation are separate stages.
+
+[Architecture & maintenance](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/MAINTAINING.md) · [Downloads](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md)
+
+</details>
 
 ---
-[Profile source](https://github.com/yigityildiz0/yigityildiz0) · [Project issues and contributions](https://github.com/yigityildiz0/universal-ai-skill-library/issues)
+
+Clinical and investment outputs do not replace professional judgment. A skill file does not provide account access, API credit or a model.
+
+[Website](https://iamyigit.com) · [All repositories](https://github.com/yigityildiz0?tab=repositories) · [Profile source](https://github.com/yigityildiz0/yigityildiz0)
