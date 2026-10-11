@@ -16,16 +16,16 @@ I build AI workflows, source-led research systems and practical software. The sh
 | You want to… | Start here |
 |---|---|
 | Find an AI workflow | [Search 35 maintained skills](https://yigityildiz0.github.io/universal-ai-skill-library/) — purpose, mechanics, examples and source. |
-| Work with rehabilitation evidence | [Physiotherapy & clinical collection](https://github.com/yigityildiz0/physiotherapy-clinical-skills) — evidence, reasoning and clinician-reviewed drafts. |
+| Work with rehabilitation evidence | [Physiotherapy & clinical collection](https://github.com/yigityildiz0/physiotherapy-clinical-skills) — evidence, reasoning and drafts requiring clinician review. |
 | Inspect a practical tool or application | [Windows launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) and [bilingual site starter](https://github.com/yigityildiz0/iamyigit-site). |
 
 ## Selected projects
 
 | | |
 |---|---|
-| [![Universal Skill Library — One source. Clear guides. Portable editions.](assets/projects/universal-ai-skill-library.svg)](https://github.com/yigityildiz0/universal-ai-skill-library) | [![Physiotherapy & Evidence — Clinician-reviewed rehabilitation workflows.](assets/projects/physiotherapy-clinical-skills.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills) |
-| [![Super Memory — Keep compact state across long sessions.](assets/projects/super-memory.svg)](https://github.com/yigityildiz0/super-memory) | [![BetterDiscord Launcher — Bounded repair, diagnostics and recovery.](assets/projects/betterdiscord-auto-repair-launcher.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) |
-| [![Investment Research — Evidence, scenarios and portfolio risk.](assets/projects/yigit-investment-copilot.svg)](https://github.com/yigityildiz0/yigit-investment-copilot) | [![Personal Site Starter — Bilingual routes, themes and tested boundaries.](assets/projects/iamyigit-site.svg)](https://github.com/yigityildiz0/iamyigit-site) |
+| [![Universal Skill Library — One source. Clear guides. Portable editions.](assets/projects/universal-ai-skill-library.svg)](https://github.com/yigityildiz0/universal-ai-skill-library)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library)** | [![Physiotherapy & Evidence — Rehabilitation drafts for clinician review.](assets/projects/physiotherapy-clinical-skills.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills)** |
+| [![Super Memory — Keep compact state across long sessions.](assets/projects/super-memory.svg)](https://github.com/yigityildiz0/super-memory)<br>**[Super Memory](https://github.com/yigityildiz0/super-memory)** | [![BetterDiscord Launcher — Bounded repair, diagnostics and recovery.](assets/projects/betterdiscord-auto-repair-launcher.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)** |
+| [![Investment Research — Evidence, scenarios and portfolio risk.](assets/projects/yigit-investment-copilot.svg)](https://github.com/yigityildiz0/yigit-investment-copilot)<br>**[Investment Research](https://github.com/yigityildiz0/yigit-investment-copilot)** | [![Personal Site Starter — Bilingual routes, themes and tested boundaries.](assets/projects/iamyigit-site.svg)](https://github.com/yigityildiz0/iamyigit-site)<br>**[Personal Site Starter](https://github.com/yigityildiz0/iamyigit-site)** |
 
 ## How the library stays maintainable
 
