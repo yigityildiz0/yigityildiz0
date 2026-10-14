@@ -18,13 +18,15 @@ Merak ettiğim şeyleri araştırıyor, öğrendiklerimi işe yarayan araçlara 
 
 **Bir iş akışı mı arıyorsun?** Katalogda görevine göre ara; nasıl çalıştığını oku ve yalnız ihtiyacın olan skill’i seç.
 
+**Yeni:** [presentation-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/presentation-studio.tr.md) düzenlenebilir PowerPoint sunumunu konuşmacı notları, gerçek görseller ve render kontrolüyle baştan sona hazırlar — Claude, ChatGPT/Codex, Gemini ve diğer ajanlarda.
+
 ## Projeler
 
 Her renk, farklı bir çalışma alanı. Kartlar doğrudan proje rehberine gider.
 
 | | |
 |---|---|
-| [![Universal Skill Library — 35 iş akışı. Tek başlangıç noktası.](assets/studio/universal-ai-skill-library-tr.svg)](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)** | [![Physiotherapy & Evidence — Kanıt ve klinisyen kontrolündeki taslaklar.](assets/studio/physiotherapy-clinical-skills-tr.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)** |
+| [![Universal Skill Library — 36 iş akışı. Tek başlangıç noktası.](assets/studio/universal-ai-skill-library-tr.svg)](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)** | [![Physiotherapy & Evidence — Kanıt ve klinisyen kontrolündeki taslaklar.](assets/studio/physiotherapy-clinical-skills-tr.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)** |
 | [![Super Memory — Projeye kaldığın yerden devam et.](assets/studio/super-memory-tr.svg)](https://github.com/yigityildiz0/super-memory/blob/main/README.tr.md)<br>**[Super Memory](https://github.com/yigityildiz0/super-memory/blob/main/README.tr.md)** | [![BetterDiscord Launcher — Tanıdan onarıma daha açık bir yol.](assets/studio/betterdiscord-auto-repair-launcher-tr.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)** |
 | [![Investment Research — Kanıt, senaryolar ve portföy riski.](assets/studio/yigit-investment-copilot-tr.svg)](https://github.com/yigityildiz0/yigit-investment-copilot/blob/main/README.tr.md)<br>**[Investment Research](https://github.com/yigityildiz0/yigit-investment-copilot/blob/main/README.tr.md)** | [![Personal Site Starter — Web için iki dilli bir başlangıç.](assets/studio/iamyigit-site-tr.svg)](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md)<br>**[Personal Site Starter](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md)** |
 
