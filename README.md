@@ -18,7 +18,7 @@ I explore questions, connect ideas and turn what I learn into useful tools. This
 
 **Looking for a workflow?** Search by the job you want to do, see how it works, and pick only the skill you need.
 
-**New:** [presentation-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/presentation-studio.en.md) builds complete, editable PowerPoint decks with speaker notes, real images and a rendered quality check — in Claude, ChatGPT/Codex, Gemini and other agents.
+**New:** [pdf-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/pdf-studio.en.md) makes reliable PDFs (no split tables or stranded headings), and [presentation-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/presentation-studio.en.md) builds complete, editable PowerPoint decks with speaker notes, real images and a rendered quality check — in Claude, ChatGPT/Codex, Gemini and other agents.
 
 ## Projects
 
@@ -26,7 +26,7 @@ Different colors, different kinds of work. Each card opens the project and its g
 
 | | |
 |---|---|
-| [![Universal Skill Library — 36 workflows. One place to start.](assets/studio/universal-ai-skill-library-en.svg)](https://github.com/yigityildiz0/universal-ai-skill-library)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library)** | [![Physiotherapy & Evidence — Evidence and drafts for clinician review.](assets/studio/physiotherapy-clinical-skills-en.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills)** |
+| [![Universal Skill Library — 37 workflows. One place to start.](assets/studio/universal-ai-skill-library-en.svg)](https://github.com/yigityildiz0/universal-ai-skill-library)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library)** | [![Physiotherapy & Evidence — Evidence and drafts for clinician review.](assets/studio/physiotherapy-clinical-skills-en.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills)** |
 | [![Super Memory — Pick up the project, not the pieces.](assets/studio/super-memory-en.svg)](https://github.com/yigityildiz0/super-memory)<br>**[Super Memory](https://github.com/yigityildiz0/super-memory)** | [![BetterDiscord Launcher — A clearer path from diagnosis to repair.](assets/studio/betterdiscord-auto-repair-launcher-en.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher)** |
 | [![Investment Research — Evidence, scenarios and portfolio risk.](assets/studio/yigit-investment-copilot-en.svg)](https://github.com/yigityildiz0/yigit-investment-copilot)<br>**[Investment Research](https://github.com/yigityildiz0/yigit-investment-copilot)** | [![Personal Site Starter — A bilingual starting point for the web.](assets/studio/iamyigit-site-en.svg)](https://github.com/yigityildiz0/iamyigit-site)<br>**[Personal Site Starter](https://github.com/yigityildiz0/iamyigit-site)** |
 
