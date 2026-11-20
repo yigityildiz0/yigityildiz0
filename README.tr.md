@@ -1,92 +1,70 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/studio/hero-tr-dark.svg">
-  <img src="assets/studio/hero-tr-light.svg" width="1280" alt="Yiğit Yıldız — AI, research and useful software">
+  <img src="assets/studio/hero-tr-light.svg" width="1280" alt="Yiğit Yıldız — yapay zekâ araçları, araştırma ve işe yarayan yazılım">
 </picture>
 
 [English](README.md) · [Türkçe](README.tr.md)
 
 ### Fikirleri işe yarayan şeylere dönüştürmek.
 
-Merak ettiğim şeyleri araştırıyor, öğrendiklerimi işe yarayan araçlara dönüştürüyorum. Burada AI iş akışları, kaynak temelli araştırma ve pratik yazılım var.
+Birden çok yapay zekâ modeliyle aynı anda çalışmak için açık araçlar yapıyorum: limitlerinden ne kaldığını gör, her işi doğru modele gönder, ajanlarını çalışırken izle, Türkçeyi düzgün yazdır. Buradaki her şey ücretsiz ve açık kaynak.
 
 <p>
-<a href="https://yigityildiz0.github.io/universal-ai-skill-library/"><img src="assets/studio/button-catalog-tr.svg" width="140" height="48" alt="Skill kataloğu"></a>
-<a href="#projeler"><img src="assets/studio/button-projects-tr.svg" width="140" height="48" alt="Projeler"></a>
-<a href="https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md"><img src="assets/studio/button-downloads-tr.svg" width="140" height="48" alt="İndirmeler"></a>
-<a href="https://iamyigit.com"><img src="assets/studio/button-website-tr.svg" width="140" height="48" alt="Web sitem"></a>
+<a href="#projeler"><img src="assets/studio/button-projects-tr.svg" width="115" height="48" alt="Projeler"></a>
+<a href="#kurulum"><img src="assets/studio/button-install-tr.svg" width="118" height="48" alt="Kurulum"></a>
+<a href="https://iamyigit.com"><img src="assets/studio/button-website-tr.svg" width="136" height="48" alt="Web sitem"></a>
 </p>
-
-**Bir iş akışı mı arıyorsun?** Katalogda görevine göre ara; nasıl çalıştığını oku ve yalnız ihtiyacın olan skill’i seç.
-
-**Yeni:** [pdf-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/pdf-studio.tr.md) güvenilir PDF hazırlar (bölünen tablo, yalnız kalan başlık yok) ve [presentation-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/presentation-studio.tr.md) düzenlenebilir PowerPoint sunumunu konuşmacı notları, gerçek görseller ve render kontrolüyle baştan sona hazırlar — Claude, ChatGPT/Codex, Gemini ve diğer ajanlarda.
-
-## Yapay zekâ araçları
-
-Birden çok yapay zekâ platformuyla aynı anda çalışmak için açık araçlar: ne kaldığını gör, işi doğru yere yönlendir, ajanları izle, Türkçeyi düzgün yazdır.
-
-| Proje | Ne yapar |
-|---|---|
-| **[Burette](https://github.com/yigityildiz0/burette)** | Yapay zekâ kullanım kotasını ölçer. Claude, Codex ve Antigravity kotalarını yerelde okuyup ne kaldığını ve ne zaman sıfırlanacağını gösteren küçük bir Windows tepsi uygulaması (Rust + Tauri). Türkçe arayüzdeki adı Cetvel. |
-| **[Claude Usage Band](https://github.com/yigityildiz0/claude-usage-band)** | Claude Code modu: istem kutusunun üstünde 5 saatlik ve haftalık pencere, bağlam doluluğu, tükenme tahmini ve otomatik sıkıştırmayla sade bir kota bandı. |
-| **[Claude Pixel Office](https://github.com/yigityildiz0/claude-pixel-office)** | Claude Code modu: ana modelin, alt ajanların ve dış ajanların masalarında çalıştığı piksel sanat bir ofis. |
-| **[Orkestra](https://github.com/yigityildiz0/orkestra)** | Her iş için platformu, modeli ve eforu canlı kotaya ve ölçülmüş kaliteye göre seçen, çalıştırdığı her işçiyi raporlayan bir ajan skill'i. |
-| **[Türkçe Usta](https://github.com/yigityildiz0/turkce-usta)** | Yapay zekâ modellerine doğal ve TDK yazım kurallarına uygun Türkçe yazdıran ajan skill'i; Claude, GPT ve Gemini modelleriyle kör puanlamalı testleri var. |
 
 ## Projeler
 
-Her renk, farklı bir çalışma alanı. Kartlar doğrudan proje rehberine gider.
+Her kart projeyi ve rehberini açar.
 
 | | |
 |---|---|
-| [![Universal Skill Library — 37 iş akışı. Tek başlangıç noktası.](assets/studio/universal-ai-skill-library-tr.svg)](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)<br>**[Universal Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/README.tr.md)** | [![Physiotherapy & Evidence — Kanıt ve klinisyen kontrolündeki taslaklar.](assets/studio/physiotherapy-clinical-skills-tr.svg)](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)<br>**[Physiotherapy & Evidence](https://github.com/yigityildiz0/physiotherapy-clinical-skills/blob/main/README.tr.md)** |
-| [![Super Memory — Projeye kaldığın yerden devam et.](assets/studio/super-memory-tr.svg)](https://github.com/yigityildiz0/super-memory/blob/main/README.tr.md)<br>**[Super Memory](https://github.com/yigityildiz0/super-memory/blob/main/README.tr.md)** | [![BetterDiscord Launcher — Tanıdan onarıma daha açık bir yol.](assets/studio/betterdiscord-auto-repair-launcher-tr.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)** |
-| [![Investment Research — Kanıt, senaryolar ve portföy riski.](assets/studio/yigit-investment-copilot-tr.svg)](https://github.com/yigityildiz0/yigit-investment-copilot/blob/main/README.tr.md)<br>**[Investment Research](https://github.com/yigityildiz0/yigit-investment-copilot/blob/main/README.tr.md)** | [![Personal Site Starter — Web için iki dilli bir başlangıç.](assets/studio/iamyigit-site-tr.svg)](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md)<br>**[Personal Site Starter](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md)** |
+| [![Burette — YZ kotan ne kadar kaldı, tek bakışta.](assets/studio/burette-tr.svg)](https://github.com/yigityildiz0/burette/blob/main/README.tr.md)<br>**[Burette](https://github.com/yigityildiz0/burette/blob/main/README.tr.md)** | [![Orkestra — Her işe doğru model, doğru efor.](assets/studio/orkestra-tr.svg)](https://github.com/yigityildiz0/orkestra/blob/main/README.tr.md)<br>**[Orkestra](https://github.com/yigityildiz0/orkestra/blob/main/README.tr.md)** |
+| [![Claude Usage Band — Limit, tahmin ve bağlam istem kutusunda.](assets/studio/claude-usage-band-tr.svg)](https://github.com/yigityildiz0/claude-usage-band/blob/main/README.tr.md)<br>**[Claude Usage Band](https://github.com/yigityildiz0/claude-usage-band/blob/main/README.tr.md)** | [![Claude Pixel Office — Ajanlarını masalarında çalışırken izle.](assets/studio/claude-pixel-office-tr.svg)](https://github.com/yigityildiz0/claude-pixel-office/blob/main/README.tr.md)<br>**[Claude Pixel Office](https://github.com/yigityildiz0/claude-pixel-office/blob/main/README.tr.md)** |
+| [![Türkçe Usta — Doğal ve TDK kurallarına uygun Türkçe.](assets/studio/turkce-usta-tr.svg)](https://github.com/yigityildiz0/turkce-usta)<br>**[Türkçe Usta](https://github.com/yigityildiz0/turkce-usta)** | [![BetterDiscord Launcher — Tanıdan onarıma daha açık bir yol.](assets/studio/betterdiscord-auto-repair-launcher-tr.svg)](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)<br>**[BetterDiscord Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/blob/main/README.tr.md)** |
+
+Ayrıca: [iamyigit-site](https://github.com/yigityildiz0/iamyigit-site/blob/main/README.tr.md), iki dilli (Türkçe ve İngilizce) Next.js kişisel site başlangıç projesi; açık/koyu tema ve testlerle.
+
+## Birlikte nasıl çalışır
+
+Her proje tek başına çalışır. Burette’i de kurarsan diğerleri ondan canlı veri alır: kota bandı ve Orkestra kalan limitleri okur, Pixel Office başka terminallerde çalışan ajanları da masaya oturtur.
+
+```mermaid
+flowchart LR
+  B["Burette (Cetvel)<br/>yerel kota servisi"] -->|"kalan limitler"| U["Claude Usage Band"]
+  B -->|"dış ajanlar"| P["Claude Pixel Office"]
+  B -->|"canlı kota"| O["Orkestra"]
+  O -->|"işi dağıtır"| M["Claude · Codex · Antigravity"]
+  U <-->|"tek oto-sıkıştırma ayarı"| P
+  T["Türkçe Usta"] -.->|"her ajanda çalışır"| M
+```
+
+## Kurulum
+
+| Proje | Nerede çalışır | Kurulum |
+|---|---|---|
+| **Burette (Cetvel)** | Windows 10/11 | Kurulum dosyasını [Releases](https://github.com/yigityildiz0/burette/releases/latest) sayfasından indir |
+| **Orkestra** | Claude Code (+ Codex, Antigravity) | `~/.claude/skills/orkestra` klasörüne klonla, sonra `ork.py kur` çalıştır ([adımlar](https://github.com/yigityildiz0/orkestra/blob/main/README.tr.md#kurulum)) |
+| **Claude Usage Band** | Claude Code | `/plugin install kota-bandi --marketplace yigityildiz0/claude-usage-band` |
+| **Claude Pixel Office** | Claude Code | `/plugin install piksel-ofis --marketplace yigityildiz0/claude-pixel-office` |
+| **Türkçe Usta** | Claude Code, Codex, Gemini CLI | [turkce-usta.zip](https://github.com/yigityildiz0/turkce-usta/releases/latest/download/turkce-usta.zip) dosyasını indir |
+| **BetterDiscord Launcher** | Windows 10/11 | [Releases](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher/releases/latest) sayfasından indir |
 
 <details>
-<summary><strong>🧭 Bana bir başlangıç noktası öner</strong></summary>
+<summary><strong>Kurulumu yapay zekâna mı bırakmak istersin?</strong></summary>
 
-| İstediğin iş | Buradan başla |
-|---|---|
-| Kod, yazı, analiz veya araştırma | [Skill kataloğu](https://yigityildiz0.github.io/universal-ai-skill-library/) |
-| Rehabilitasyon kanıtı ve öğrenme | [Fizyoterapi koleksiyonu](https://github.com/yigityildiz0/physiotherapy-clinical-skills) |
-| Ajanlar arasında proje devri | [Super Memory](https://github.com/yigityildiz0/super-memory) |
+Bunu Claude Code, Codex ya da Antigravity’ye yapıştır, proje adını değiştir:
 
-</details>
-
-<details>
-<summary><strong>Tüm proje ve koleksiyonlar</strong></summary>
-
-| Repository | Kapsam |
-|---|---|
-| [Universal AI Skill Library](https://github.com/yigityildiz0/universal-ai-skill-library) | Geliştirme, tasarım, araştırma, klinik akıl yürütme ve günlük işler için kaynak temelli iş akışları. |
-| [AI Development Skills](https://github.com/yigityildiz0/ai-development-skills) | Yazılım geliştirme, AI araçları, güncel dokümantasyon ve kod tabanını anlama iş akışları. |
-| [Design & Content Skills](https://github.com/yigityildiz0/design-content-skills) | Arayüz, görsel sistem, yazı, sunum ve görsel/video üretim iş akışları. |
-| [Evidence & Research Skills](https://github.com/yigityildiz0/evidence-research-skills) | Kaynak temelli araştırma, kanıt değerlendirme, veri analizi ve araştırma sentezi. |
-| [Physiotherapy & Clinical Skills](https://github.com/yigityildiz0/physiotherapy-clinical-skills) | Klinik akıl yürütme, rehabilitasyon kanıtları, öğrenme ve kriz desteği iş akışları. |
-| [Investment Research Copilot](https://github.com/yigityildiz0/yigit-investment-copilot) | Piyasa kanıtları, senaryolar, portföy riski ve karar planları için yatırım araştırması iş akışları. |
-| [Finance Skills — Maintained Collection](https://github.com/yigityildiz0/universal-ai-finance-skills) | Bakımı sürdürülen finans koleksiyonu: yatırım araştırması, veri analizi ve satın alma değerlendirmesi. |
-| [Scientific Skills — Maintained Collection](https://github.com/yigityildiz0/scientific-agent-skills) | Literatür, öğrenme, analiz, AI araştırması ve belge kalitesi için güncel bilimsel iş akışları. |
-| [Smart Route Planning](https://github.com/yigityildiz0/map-skill) | Toplu taşıma, yürüyüş, zamanlama ve açık canlı veri sınırlarıyla kaynak temelli rota planlama. |
-| [Truth-First — Maintained Research Workflows](https://github.com/yigityildiz0/truth-first-counterargument-skill) | Güncel araştırma merkezi içinde iddia doğrulama, kanıt bütünlüğü ve karar sorgulama. |
-| [Super Memory](https://github.com/yigityildiz0/super-memory) | Uzun AI oturumları için proje-yerel hafıza ve kanıtlı devir notları. |
-| [BetterDiscord Auto Repair Launcher](https://github.com/yigityildiz0/betterdiscord-auto-repair-launcher) | Windows yardımcı uygulaması; skill değildir. |
-| [iamyigit-site](https://github.com/yigityildiz0/iamyigit-site) | İki dilli Next.js başlangıç projesi. |
-
-</details>
-
-<details>
-<summary><strong>🛠️ Nasıl çalışıyorum ve kütüphane nasıl güncelleniyor?</strong></summary>
-
-**Kaynak önce, açık sınırlar, yeniden kullanılabilir parçalar.** Kütüphane; 34 güncel kişisel master kökü ve Super Memory ile 35 giriş noktası içerir. Her skill için ayrı İngilizce/Türkçe rehber var; alan koleksiyonları aynı kaynağın seçilmiş görünümleridir. Eski topluluk kaynakları güncel/testli kapsamdan ayrı tutulur.
-
-Mevcut host araçlarını, açık kaynakları ve yerel işlemi kullanırım; ek ücretli servis otomatik alternatif değildir. Paket üretimi, test ve gerçek hesapta aktivasyon farklı aşamalardır.
-
-[Architecture & maintenance](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/MAINTAINING.md) · [Downloads](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/DOWNLOADS.md)
+```text
+https://github.com/yigityildiz0/<proje> projesini bilgisayarıma kur. Önce README ve AGENTS.md dosyalarını oku, sistemime uygun adımları izle, sonra belgede yazan kontrolleri çalıştırıp sonucu bana söyle.
+```
 
 </details>
 
 ---
 
-Klinik ve yatırım çıktıları profesyonel değerlendirmenin yerine geçmez. Skill dosyası hesap yetkisi, API kredisi veya model sağlamaz.
+Ücretsiz ve açık kaynak; her repo kendi lisansını belirtir. Anthropic, OpenAI ya da Google ile bağlantısı yoktur.
 
-[Website](https://iamyigit.com) · [All repositories](https://github.com/yigityildiz0?tab=repositories) · [Profile source](https://github.com/yigityildiz0/yigityildiz0)
+[Web sitem](https://iamyigit.com) · [Tüm repolar](https://github.com/yigityildiz0?tab=repositories) · [Profil kaynağı](https://github.com/yigityildiz0/yigityildiz0)

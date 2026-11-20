@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title"><title id="title">Orkestra — The right model and effort for every task.</title><rect width="1280" height="640" fill="#E7EDFF"/><circle cx="1180" cy="40" r="300" fill="#3157C8" opacity=".07"/><circle cx="1210" cy="600" r="140" fill="#3157C8" opacity=".05"/>
+<rect x="80" y="86" width="9" height="36" rx="4.5" fill="#3157C8"/><text x="108" y="114" font-family="Consolas,monospace" font-size="26" letter-spacing="2" fill="#3157C8">AGENT SKILL</text>
+<g transform="translate(1030 90) scale(3.2)" fill="none" stroke="#3157C8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="24" cy="6" r="4"/><circle cx="7" cy="30" r="4"/><circle cx="24" cy="30" r="4"/><circle cx="41" cy="30" r="4"/><path d="M22 10L9 26M24 10v16M26 10l13 16"/></g>
+<text x="78" y="300" font-family="Trebuchet MS,Arial,sans-serif" font-size="96" font-weight="700" letter-spacing="-2" fill="#17203B">Orkestra</text>
+<text x="82" y="378" font-family="Segoe UI,Arial,sans-serif" font-size="40" fill="#414B65">The right model and effort for every task.</text>
+<path d="M82 470H1198" stroke="#3157C8" opacity=".2"/>
+<text x="82" y="540" font-family="Consolas,monospace" font-size="28" fill="#3157C8">github.com/yigityildiz0/orkestra</text>
+<rect x="1046" y="506" width="152" height="48" rx="14" fill="#3157C8"/><text x="1122" y="538" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">open source</text></svg>

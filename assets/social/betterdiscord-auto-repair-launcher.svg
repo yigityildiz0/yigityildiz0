@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title"><title id="title">BetterDiscord Launcher — A clearer path from diagnosis to repair.</title><rect width="1280" height="640" fill="#DBF3FF"/><circle cx="1180" cy="40" r="300" fill="#24647D" opacity=".07"/><circle cx="1210" cy="600" r="140" fill="#24647D" opacity=".05"/>
+<rect x="80" y="86" width="9" height="36" rx="4.5" fill="#24647D"/><text x="108" y="114" font-family="Consolas,monospace" font-size="26" letter-spacing="2" fill="#24647D">WINDOWS UTILITY</text>
+<g transform="translate(1030 90) scale(3.2)" fill="none" stroke="#24647D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="44" height="32" rx="5"/><path d="M10 12l6 6-6 6M23 24h12"/></g>
+<text x="78" y="300" font-family="Trebuchet MS,Arial,sans-serif" font-size="78" font-weight="700" letter-spacing="-2" fill="#17203B">BetterDiscord Launcher</text>
+<text x="82" y="378" font-family="Segoe UI,Arial,sans-serif" font-size="40" fill="#414B65">A clearer path from diagnosis to repair.</text>
+<path d="M82 470H1198" stroke="#24647D" opacity=".2"/>
+<text x="82" y="540" font-family="Consolas,monospace" font-size="28" fill="#24647D">github.com/yigityildiz0/betterdiscord-auto-repair-launcher</text>
+<rect x="1046" y="506" width="152" height="48" rx="14" fill="#24647D"/><text x="1122" y="538" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">open source</text></svg>

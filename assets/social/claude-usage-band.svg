@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title"><title id="title">Claude Usage Band — Limits, forecast and context above the prompt.</title><rect width="1280" height="640" fill="#DEFAED"/><circle cx="1180" cy="40" r="300" fill="#126A51" opacity=".07"/><circle cx="1210" cy="600" r="140" fill="#126A51" opacity=".05"/>
+<rect x="80" y="86" width="9" height="36" rx="4.5" fill="#126A51"/><text x="108" y="114" font-family="Consolas,monospace" font-size="26" letter-spacing="2" fill="#126A51">CLAUDE CODE MOD</text>
+<g transform="translate(1030 90) scale(3.2)" fill="none" stroke="#126A51" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="44" height="12" rx="6"/><rect x="2" y="4" width="28" height="12" rx="6"/><path d="M4 26h40M4 32h26"/></g>
+<text x="78" y="300" font-family="Trebuchet MS,Arial,sans-serif" font-size="96" font-weight="700" letter-spacing="-2" fill="#17203B">Claude Usage Band</text>
+<text x="82" y="378" font-family="Segoe UI,Arial,sans-serif" font-size="40" fill="#414B65">Limits, forecast and context above the prompt.</text>
+<path d="M82 470H1198" stroke="#126A51" opacity=".2"/>
+<text x="82" y="540" font-family="Consolas,monospace" font-size="28" fill="#126A51">github.com/yigityildiz0/claude-usage-band</text>
+<rect x="1046" y="506" width="152" height="48" rx="14" fill="#126A51"/><text x="1122" y="538" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">open source</text></svg>
