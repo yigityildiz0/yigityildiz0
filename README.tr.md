@@ -20,9 +20,9 @@ Merak ettiğim şeyleri araştırıyor, öğrendiklerimi işe yarayan araçlara 
 
 **Yeni:** [pdf-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/pdf-studio.tr.md) güvenilir PDF hazırlar (bölünen tablo, yalnız kalan başlık yok) ve [presentation-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/presentation-studio.tr.md) düzenlenebilir PowerPoint sunumunu konuşmacı notları, gerçek görseller ve render kontrolüyle baştan sona hazırlar — Claude, ChatGPT/Codex, Gemini ve diğer ajanlarda.
 
-## Yapay zekâ kullanım araçları
+## Yapay zekâ araçları
 
-Birden çok yapay zekâ platformuyla aynı anda çalışmak için dört açık araç: ne kaldığını gör, işi doğru yere yönlendir, ajanları izle.
+Birden çok yapay zekâ platformuyla aynı anda çalışmak için açık araçlar: ne kaldığını gör, işi doğru yere yönlendir, ajanları izle, Türkçeyi düzgün yazdır.
 
 | Proje | Ne yapar |
 |---|---|
@@ -30,6 +30,7 @@ Birden çok yapay zekâ platformuyla aynı anda çalışmak için dört açık a
 | **[Claude Usage Band](https://github.com/yigityildiz0/claude-usage-band)** | Claude Code modu: istem kutusunun üstünde 5 saatlik ve haftalık pencere, bağlam doluluğu, tükenme tahmini ve otomatik sıkıştırmayla sade bir kota bandı. |
 | **[Claude Pixel Office](https://github.com/yigityildiz0/claude-pixel-office)** | Claude Code modu: ana modelin, alt ajanların ve dış ajanların masalarında çalıştığı piksel sanat bir ofis. |
 | **[Orkestra](https://github.com/yigityildiz0/orkestra)** | Her iş için platformu, modeli ve eforu canlı kotaya ve ölçülmüş kaliteye göre seçen, çalıştırdığı her işçiyi raporlayan bir ajan skill'i. |
+| **[Türkçe Usta](https://github.com/yigityildiz0/turkce-usta)** | Yapay zekâ modellerine doğal ve TDK yazım kurallarına uygun Türkçe yazdıran ajan skill'i; Claude, GPT ve Gemini modelleriyle kör puanlamalı testleri var. |
 
 ## Projeler
 

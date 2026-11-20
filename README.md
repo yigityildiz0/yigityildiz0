@@ -20,9 +20,9 @@ I explore questions, connect ideas and turn what I learn into useful tools. This
 
 **New:** [pdf-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/pdf-studio.en.md) makes reliable PDFs (no split tables or stranded headings), and [presentation-studio](https://github.com/yigityildiz0/universal-ai-skill-library/blob/main/docs/skills/presentation-studio.en.md) builds complete, editable PowerPoint decks with speaker notes, real images and a rendered quality check — in Claude, ChatGPT/Codex, Gemini and other agents.
 
-## AI usage tools
+## AI tools
 
-Four open tools for working with several AI platforms at once: see what is left, route work, and keep an eye on agents.
+Open tools for working with several AI platforms at once: see what is left, route work, keep an eye on agents, and get proper Turkish out of them.
 
 | Project | What it does |
 |---|---|
@@ -30,6 +30,7 @@ Four open tools for working with several AI platforms at once: see what is left,
 | **[Claude Usage Band](https://github.com/yigityildiz0/claude-usage-band)** | A Claude Code mod: a calm quota band above the prompt with 5-hour and weekly windows, context use, run-out forecast and auto-compaction. |
 | **[Claude Pixel Office](https://github.com/yigityildiz0/claude-pixel-office)** | A Claude Code mod: a pixel-art office where the main model, subagents and external agents work at their desks. |
 | **[Orkestra](https://github.com/yigityildiz0/orkestra)** | An agent skill that picks the platform, model and effort for each task from live quotas and measured quality, then reports every worker it ran. |
+| **[Türkçe Usta](https://github.com/yigityildiz0/turkce-usta)** | An agent skill that makes AI models write natural Turkish that follows TDK spelling rules, with blind-scored tests on Claude, GPT and Gemini models. |
 
 ## Projects
 
